@@ -162,7 +162,7 @@ while True:
 </details>
 
   
-10. Finally we need to check if the User wishes to play again, if they select _"No"_ then `break` out of the loop and display a goodby message.
+10. Finally we need to check if the User wishes to play again, if they select _"No"_ then `break` out of the loop and display a goodbye message.
 <details>
 <summary>👀 Hint</summary>
 
