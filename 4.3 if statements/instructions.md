@@ -1,5 +1,5 @@
 # If Statements
-Please complete the following in `main.py`
+Please complete the following in `Thonny`
 
 Use `# comments` as appropriate to outline what your code is doing.
 
