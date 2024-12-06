@@ -1,8 +1,10 @@
 # More about *if statements*
 
-## (CS50P - Lecture 1 - Conditionals)
+![image](https://github.com/user-attachments/assets/c603f527-b51f-430b-bdd3-1cadf5d92414)
 
-We're going to be writing code to compare two numbers.
+## Thanks to CS50P - Lecture 1 - Conditionals for the inspiration.
+
+Today we're going to be writing code to compare two numbers.
 
 
 
