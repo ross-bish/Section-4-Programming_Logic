@@ -1,5 +1,5 @@
 # Guessing Game 
-
+![LemonQuestionTimeLqtGIF](https://github.com/user-attachments/assets/4e37256f-72ef-49c9-bfe3-fd82e448b98d)
 ## Challenge 👨‍💻
 Design a guessing game with the following parameters:
 
